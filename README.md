@@ -4,10 +4,10 @@ Project ini dibuat untuk memenuhi UTS matakuliah pemrograman web. Didalamnya ter
 
 Persyaratan UTS yang sudah terpenuhi dalam project ini:
 
--   Laravel UI
--   Form
--   Form Validation
--   Routing Resource
+-   [x] Laravel UI
+-   [x] Form
+-   [x] Form Validation
+-   [x] Routing Resource
 
 ## Laravel
 
