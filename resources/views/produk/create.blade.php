@@ -36,7 +36,7 @@
         <div class="row">
             <div class="mb-3 col-lg-5">
                 <label for="tgl" class="form-label">Tanggal Kadaluarsa</label>
-                <input type="text" class="bg-white form-control @error('tgl_kadaluarsa') is-invalid @enderror"
+                <input type="date" class="bg-white form-control @error('tgl_kadaluarsa') is-invalid @enderror"
                     name="tgl_kadaluarsa">
                 @error('tgl_kadaluarsa')
                 <div class="alert alert-danger">{{ $message }}</div>
